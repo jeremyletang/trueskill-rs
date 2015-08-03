@@ -1,0 +1,7 @@
+[package]
+name = "trueskill"
+version = "0.1.0"
+authors = ["jeremyletang <letang.jeremy@gmail.com>"]
+
+[dependencies]
+num = "*"
